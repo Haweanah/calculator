@@ -19,7 +19,8 @@ scanf(" %c", &operator);
 
 switch(operator)
 {
-case '+' :									printf("Answer = %d", a + b);
+case '+' :									
+printf("Answer = %d", a + b);
 break;
 
 case '-' :
