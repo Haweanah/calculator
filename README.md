@@ -1,1 +1,1 @@
-simple calculator program
+simple calculator program using switch statements
